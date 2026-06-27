@@ -1,21 +1,36 @@
-# 🔷 Java Conditional Statements
+# 🔀 Java Conditional Statements
 
-This folder contains Java programs based on decision-making statements.
+## 📖 About
 
-## Topics Covered
+This folder contains Java programs that demonstrate decision-making and conditional statements.
 
-- if statement
-- if-else statement
-- nested if
-- else-if ladder
-- switch statement
+---
 
-## Programs
+## 📂 Programs
 
 - GradeCalculation
 - Calculator
 - LeapYear
 - DayOfWeek
 - MonthName
-- GreatestOfThreeNumbers
-- VotingEligibility
+- ElectricityBill
+- StudentResult
+
+---
+
+## 🧠 Concepts Covered
+
+- if statement
+- if-else statement
+- else-if ladder
+- switch statement
+- nested conditions
+
+---
+
+## 🎯 Learning Outcomes
+
+✔ Decision making in Java  
+✔ Multiple condition checking  
+✔ Menu-driven programs  
+✔ Real-world applications
