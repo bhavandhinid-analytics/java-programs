@@ -1,0 +1,93 @@
+# Java Loops Programs
+
+This folder contains Java programs that demonstrate the use of looping statements. Loops allow a block of code to execute repeatedly until a specified condition is met.
+
+## 📚 Topics Covered
+
+- For Loop
+- While Loop
+- Do-While Loop
+- Nested Loops
+- Loop Control Statements (break and continue)
+
+## 📁 Programs Included
+
+| No. | Program Name | Description |
+|-----|--------------|-------------|
+| 1 | PrintNumbers.java | Prints numbers from 1 to N. |
+| 2 | SumOfNumbers.java | Finds the sum of the first N natural numbers. |
+| 3 | EvenOddNumbers.java | Prints even and odd numbers from 1 to N. |
+| 4 | MultiplicationTable.java | Displays the multiplication table of a given number. |
+| 5 | Factorial.java | Calculates the factorial of a given number. |
+| 6 | FibonacciSeries.java | Prints the Fibonacci series up to N terms. |
+| 7 | PrimeNumber.java | Checks whether a number is prime. |
+| 8 | ReverseNumber.java | Reverses the digits of a number. |
+| 9 | PalindromeNumber.java | Checks whether a number is a palindrome. |
+| 10 | ArmstrongNumber.java | Checks whether a number is an Armstrong number. |
+| 11 | PerfectNumber.java | Checks whether a number is a perfect number. |
+| 12 | StrongNumber.java | Checks whether a number is a strong number. |
+| 13 | GCD.java | Finds the Greatest Common Divisor (GCD) of two numbers. |
+| 14 | LCM.java | Finds the Least Common Multiple (LCM) of two numbers. |
+| 15 | CountDigits.java | Counts the number of digits in a given number. |
+| 16 | PatternPrinting.java | Prints various star and number patterns using nested loops. |
+
+## 🎯 Learning Objectives
+
+After completing these programs, you will be able to:
+
+- Understand loop execution in Java.
+- Use `for`, `while`, and `do-while` loops effectively.
+- Solve mathematical problems using loops.
+- Implement nested loops for pattern printing.
+- Improve logical thinking and problem-solving skills.
+
+## ▶️ How to Run
+
+1. Open the program in your Java IDE or editor.
+2. Compile the program:
+
+```bash
+javac FileName.java
+```
+
+3. Run the program:
+
+```bash
+java FileName
+```
+
+Example:
+
+```bash
+javac Factorial.java
+java Factorial
+```
+
+## 🛠️ Technologies Used
+
+- Java
+- JDK 8 or above
+- Scanner Class (`java.util.Scanner`)
+
+## 📂 Folder Structure
+
+```
+04-Loops/
+│
+├── PrintNumbers.java
+├── SumOfNumbers.java
+├── EvenOddNumbers.java
+├── MultiplicationTable.java
+├── Factorial.java
+├── FibonacciSeries.java
+├── PrimeNumber.java
+├── ReverseNumber.java
+├── PalindromeNumber.java
+├── ArmstrongNumber.java
+├── PerfectNumber.java
+├── StrongNumber.java
+├── GCD.java
+├── LCM.java
+├── CountDigits.java
+├── PatternPrinting.java
+└── README.md
