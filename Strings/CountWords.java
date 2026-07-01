@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class CountWords {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a sentence: ");
+        String sentence = sc.nextLine();
+
+        sentence = sentence.trim();
+
+        if (sentence.isEmpty()) {
+            System.out.println("Number of words: 0");
+        } else {
+            String[] words = sentence.split("\\s+");
+            System.out.println("Number of words: " + words.length);
+        }
+
+        sc.close();
+    }
+}
+
+/*
+Sample Input:
+Java is easy to learn
+
+Output:
+Number of words: 5
+*/
